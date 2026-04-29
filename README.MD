@@ -1,6 +1,6 @@
 # Financial Market Analytics Dashboard
 
-Live App: [PASTE_YOUR_LIVE_STREAMLIT_LINK_HERE]
+Live App: https://financial-analytics-dashboard-ktghw2puvsdhvfyztypmjh.streamlit.app/
 
 ## About the Project
 I built this dashboard to automate equity research and technical analysis for Indian (NSE/BSE) and global stocks. Instead of just plotting charts, the goal was to build a proper ETL pipeline and generate automated insights that a business stakeholder could actually use. 
